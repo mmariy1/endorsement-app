@@ -1,0 +1,1 @@
+This project is a part of the Frontend Career Path on [Scrimba](https://scrimba.com/). It is meant to be an endorsement app, where you can write compliments, or anything you want, to someone else. Check out the live version [here](https://we-are-the-champions-endorsementapp.netlify.app/) :D
