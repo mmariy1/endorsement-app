@@ -1,0 +1,11 @@
+{
+    "name": "We are the Champions",
+    "short_name": "We are the Champions",
+    "icons":
+        [
+
+        ],
+    "theme_color": "#1B1924",
+    "background_color": "#1B1924",
+    "display": "standalone"
+}
